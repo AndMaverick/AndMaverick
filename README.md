@@ -30,8 +30,6 @@ Ship fast. Learn loud. Keep it human.
 This isn’t a résumé — it’s the lab.  
 Check back in a month and it won’t look the same.  
 
----## Hi there 👋
-
 <!--
 **AndMaverick/AndMaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
