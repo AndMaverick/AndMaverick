@@ -24,7 +24,7 @@
 ## 🌟 Highlights  
 - [📚 Dewey.Decimal](https://github.com/AndMaverick/dewey.decimal) — text insights toolkit (Python | JS | Go)  
 - [🪜 Treppenwitz](https://github.com/AndMaverick/treppenwitz) — German-language log/task analyzer
-- [🐟 Babel.Fish](https://github.com/AndMaverick/babel.fish.git) - tone translator 
+- [🐟 Babel.Fish](https://github.com/AndMaverick/babel.fish.git) - AI-powered cultural interpreter (tone, style, audience in real time)
 - More dropping soon… watch this space 👀  
 
 ---
