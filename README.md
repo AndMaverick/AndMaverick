@@ -25,6 +25,7 @@
 - [📚 Dewey.Decimal](https://github.com/AndMaverick/dewey.decimal) — text insights toolkit (Python | JS | Go)  
 - [🪜 Treppenwitz](https://github.com/AndMaverick/treppenwitz) — German-language log/task analyzer
 - [🐟 Babel.Fish](https://github.com/AndMaverick/babel.fish.git) - AI-powered cultural interpreter (tone, style, audience in real time)
+- 🧠 [lex.machine](https://github.com/AndMaverick/lex.machine) — policy-as-code framework for AI governance automation (bias checks, compliance gates, audit-ready workflows)
 - More dropping soon… watch this space 👀  
 
 ---
