@@ -1,6 +1,6 @@
 # ✨ Maverick 🚀  
 
-> “I don’t do idle.”  
+> I don’t do idle. 
 > This is where experiments turn into proof, and ideas sharpen into tools.  
 > Not polish over progress — momentum you can see.  
 
