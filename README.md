@@ -1,60 +1,57 @@
-# ✨ Maverick 🚀  
+# Maverick
 
-> I don’t do idle.
->  
-> This is where experiments turn into proof, and ideas sharpen into tools.  
-> Not polish over progress — momentum you can see.  
+**Principal AI Strategist. Founder, AndMaverick LLC.**
 
----
+I design the architecture behind enterprise AI: which models, which actions, and how they get orchestrated so the whole thing holds up in production and in front of a regulator.
 
-## 🎨 GitHub Gallery  
-![Maverick Banner](https://dummyimage.com/1000x180/1a1a1a/ffffff&text=⚡+AndMaverick+//+Code+in+Motion)  
+Before this: OpenAI (GPT-2/GPT-3 era), Head of AI for Product Experience at Spotify, advisor at Coinbase, early at Stripe. Yale MBA.
+
+[andmaverick.com](https://www.andmaverick.com) | [Writing](https://blog.andmaverick.com) | [LinkedIn](https://www.linkedin.com/in/andrewquillenmba/) | [Book a conversation](https://www.andmaverick.com)
 
 ---
 
-## 🧭 What You’ll Find Here  
-- ⚡ Small projects that punch above their weight  
-- 🛠️ Utilities, notebooks, and frameworks that prove a point fast  
-- 📑 Documentation sharp enough for builders, clear enough for execs  
+## The MAO Framework
 
-> _Klarheit aus Chaos._ 🇩🇪  
-> _Clarté dans le chaos._ 🇫🇷  
+Most AI programs fail in the gaps between the model, the work it is supposed to do, and the system that coordinates both. MAO makes those three layers explicit.
 
----
+| Layer | The question it answers |
+|---|---|
+| **Model** | Which intelligence fits this job, and what does it cost to be wrong? |
+| **Action** | What is the system actually allowed to do, with which tools and permissions? |
+| **Orchestration** | Who coordinates, who checks, and where does a human step in? |
 
-## 🌟 Highlights  
-- [📚 Dewey.Decimal](https://github.com/AndMaverick/dewey.decimal) — text insights toolkit (Python | JS | Go)  
-- [🪜 Treppenwitz](https://github.com/AndMaverick/treppenwitz) — German-language log/task analyzer
-- [🐟 Babel.Fish](https://github.com/AndMaverick/babel.fish.git) - AI-powered cultural interpreter (tone, style, audience in real time)
-- 🧠 [lex.machine](https://github.com/AndMaverick/lex.machine) — policy-as-code framework for AI governance automation (bias checks, compliance gates, audit-ready workflows)
-- More dropping soon… watch this space 👀  
+The public tooling below is where I test these ideas in code before they go into client work.
 
 ---
 
-## 🎬 Current Work  
-- [myfirst-project](https://github.com/AndMaverick/myfirst-project) — sandbox & launchpad  
+## Flagship
+
+### [lex.machine](https://github.com/AndMaverick/lex.machine)
+Policy-as-code for AI governance. Bias checks, compliance gates, and audit-ready reports that run in CI instead of living in a slide deck.
+`Python` `GitHub Actions` `NIST AI RMF` `EU AI Act`
 
 ---
 
-## 🚀 Roadmap  
-- 🔮 More multilingual projects (French, German, …)  
-- 🧩 Sharper utilities packaged for real-world use  
-- 🎭 Creative blends of code + language + storytelling  
-- 📈 Every repo styled like it’s investor-ready  
+## Tools
+
+| Repo | What it does |
+|---|---|
+| [babel.fish](https://github.com/AndMaverick/babel.fish) | Cultural interpreter. Reads tone, style, and audience, then adapts the message. |
+| [dewey.decimal](https://github.com/AndMaverick/dewey.decimal) | Text insights toolkit. |
+| [treppenwitz](https://github.com/AndMaverick/treppenwitz) | German-language log and task analyzer. Counts tasks, pulls key terms, flags priority. |
 
 ---
 
-## 🛡️ Badges (because flair matters)  
-![Language](https://img.shields.io/badge/language-multi-blue?style=flat-square)  
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)  
-![Version](https://img.shields.io/badge/version-1.0.0-yellow?style=flat-square)  
-![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)  
+## Currently
+
+- Hardening lex.machine into something a platform team can adopt in an afternoon
+- Writing in public on AI architecture, sovereignty, and governance
+- Coaching senior operators into AI roles through [Leland](https://www.joinleland.com/coach/andrew-q)
 
 ---
 
-## 📜 License  
-Distributed under the MIT License.  
+## Working with me
 
----
+Executive advisory, AI systems architecture, and orchestration strategy for enterprise and government teams. If you are standardizing AI tooling, setting up governance, or deciding what to build versus buy, start a conversation at [andmaverick.com](https://www.andmaverick.com).
 
-✨ Built with vision, fire, and a little mischief by **AndMaverick**
+*Klarheit aus Chaos.*
