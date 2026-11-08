@@ -19,6 +19,16 @@ What follows is not a portfolio of demos. Each repository is a working, tested a
 
 ---
 
+## The Control Room
+
+<p align="center"><a href="https://andmaverick.github.io/control-room/?utm_source=github&utm_medium=profile&utm_campaign=controlroom&utm_content=preview"><img src="assets/controlroom-preview.svg" alt="The AndMaverick Control Room. You have a $12 million AI program. Let's find out whether it survives production." width="100%"></a></p>
+
+A private, interactive demonstration. Choose a global bank, a sovereign program or a consumer AI company, break the system, and watch five of these tools diagnose a simulated production failure. The inputs are synthetic and labelled as such. Every analytical result is the return value of the real code in this profile, running in your browser.
+
+**[Enter the Control Room](https://andmaverick.github.io/control-room/?utm_source=github&utm_medium=profile&utm_campaign=controlroom&utm_content=enter)** &nbsp;·&nbsp; **[The Receipts](https://andmaverick.github.io/control-room/receipts.html?utm_source=github&utm_medium=profile&utm_campaign=controlroom&utm_content=receipts)** &nbsp;·&nbsp; **[The Million Dollar Question](https://andmaverick.github.io/control-room/question.html?utm_source=github&utm_medium=profile&utm_campaign=controlroom&utm_content=question)**
+
+---
+
 ## Start with the problem you have
 
 <table>
