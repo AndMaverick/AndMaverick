@@ -13,7 +13,7 @@
 
 ### I design the architecture behind enterprise and sovereign AI, and I lead every engagement myself.
 
-I built AI at OpenAI, led AI for product experience at Spotify for a platform serving 675 million people, advised Coinbase, and helped build infrastructure at Stripe. I'm based in Dubai and work across North America, Europe, Asia-Pacific, and the Gulf.
+I worked at OpenAI, led AI for product experience at Spotify for a platform serving 675 million people, advised Coinbase, and helped build infrastructure at Stripe. I'm based in Dubai and work across North America, Europe, Asia-Pacific, and the Gulf.
 
 What follows is not a portfolio of demos. Each repository is a working, tested answer to a problem that organizations are paying real money to get wrong. Find the problem you recognize.
 
@@ -108,7 +108,7 @@ Every repository above is dependency-free Python with a test suite and continuou
 
 **Advisory.** Selected organizations, as published at [andmaverick.com](https://www.andmaverick.com/?utm_source=github&utm_medium=profile&utm_campaign=record): Government of Australia, Government of New Zealand, Blackstone, Mayo Clinic, JPMorgan Chase, Microsoft, Suno, Temasek, G42, Sea Group.
 
-**Fiction.** I also write. [The Looming Horizon](https://www.youtube.com/@TheLoomingHorizon) is a dystopian novel with a companion podcast, about what happens when institutions stop being able to say no.
+**Fiction.** I also write. [The Looming Horizon](https://www.youtube.com/@TheLoomingHorizon) is my dystopian novel, with a companion series on YouTube.
 
 ---
 
