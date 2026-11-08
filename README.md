@@ -129,6 +129,10 @@ AndMaverick works with sovereign wealth funds, governments, frontier AI companie
 If one of the problems above is yours, the next step is a conversation.
 
 <p align="center">
+  <a href="https://andmaverick.github.io/control-room/?utm_source=github&utm_medium=profile&utm_campaign=review&utm_content=work-with-me#review"><b>REQUEST A PRIVATE ARCHITECTURE REVIEW</b></a>
+</p>
+
+<p align="center">
   <a href="https://calendly.com/andmaverick?utm_source=github&utm_medium=profile&utm_campaign=footer"><b>BEGIN A CONVERSATION</b></a> &nbsp;·&nbsp;
   <a href="https://www.andmaverick.com/mao-index?utm_source=github&utm_medium=profile&utm_campaign=footer"><b>TAKE THE FREE MAO INDEX</b></a> &nbsp;·&nbsp;
   <a href="mailto:andrew@andmaverick.com?subject=Speaking%20inquiry"><b>INQUIRE ABOUT SPEAKING</b></a>
