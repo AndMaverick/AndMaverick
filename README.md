@@ -138,4 +138,19 @@ If one of the problems above is yours, the next step is a conversation.
   <a href="mailto:andrew@andmaverick.com?subject=Speaking%20inquiry"><b>INQUIRE ABOUT SPEAKING</b></a>
 </p>
 
+---
+
+## Writing
+
+Each piece below is paired with the repository it argues for. Read the thinking, then run the code.
+
+| Read | Run |
+|---|---|
+| [Closed Values: Hand Off Contracts for Untrusted Agents](https://coderlegion.com/35393/closed-values-hand-off-contracts-for-untrusted-agents) How an agent that reads strangers' text can hand work to one that holds your tokens, with nothing but closed values crossing between them. | [mao-framework](https://github.com/AndMaverick/mao-framework) holds the contract in `mao/handoff.py`, with 65 tests and a list of what it does not guarantee. |
+| [The Lethal Trifecta Test for Your Agent](https://coderlegion.com/34412/the-lethal-trifecta-test-for-your-agent) Why an agent that reads untrusted text, holds private data and can act outward is one filed issue away from a leak. | [guard.rails](https://github.com/AndMaverick/guard.rails) finds personal data, secrets and prompt injection, and says plainly where a filter stops. |
+| [Nobody Signs for the Agent](https://blog.andmaverick.com/nobody-signs-for-the-agent?utm_source=github&utm_medium=profile&utm_campaign=writing) Every agent needs a named owner, and most have none. | [lex.machine](https://github.com/AndMaverick/lex.machine) turns governance controls into code that passes or fails, with the evidence written down. |
+| [The Meter Is Running. Nobody Built the Architecture to Stop It.](https://blog.andmaverick.com/the-meter-is-running-nobody-built-the-architecture-to-stop-it?utm_source=github&utm_medium=profile&utm_campaign=writing) AI spend grows without anyone deciding it should. | [model.ledger](https://github.com/AndMaverick/model.ledger) accounts for every call in exact decimals and explains a change in spend by price, volume and mix. |
+| [Your AI Has a Passport Problem](https://blog.andmaverick.com/your-ai-has-a-passport-problem?utm_source=github&utm_medium=profile&utm_campaign=writing) Where the data goes when an AI system runs is a question of jurisdiction as much as engineering. | [sovereign.map](https://github.com/AndMaverick/sovereign.map) checks an architecture against the residency, control and transfer rules you write. |
+| [The Language They Did Not Build For](https://blog.andmaverick.com/the-language-they-did-not-build-for?utm_source=github&utm_medium=profile&utm_campaign=writing) Most AI infrastructure treats Arabic as an afterthought, and the failures start with spelling. | [lisan](https://github.com/AndMaverick/lisan) normalizes Arabic text, matches names across scripts and searches it. |
+
 <p align="center"><i>Klarheit aus Chaos.</i></p>
